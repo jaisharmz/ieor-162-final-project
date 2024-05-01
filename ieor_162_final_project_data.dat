@@ -1,0 +1,50 @@
+set CityNames := city1, city2, city3, city4, city5, city6, city7, city8, city9, city10, city11, city12, city13, city14, city15, city16, city17, city18, city19, city20, city21, city22;
+set CityNamesMinusOne := city2, city3, city4, city5, city6, city7, city8, city9, city10, city11, city12, city13, city14, city15, city16, city17, city18, city19, city20, city21, city22;
+
+param longitude :=
+city1 50.512
+city2 39.104
+city3 144.97
+city4 136.534
+city5 121.221
+city6 -80.239
+city7 11.713
+city8 7.429
+city9 -73.525
+city10 14.761
+city11 -1.017
+city12 19.25
+city13  5.971
+city14 9.29
+city15 49.842
+city16 103.859
+city17 -97.633
+city18 -99.091
+city19 -46.698
+city20 -115.168
+city21 51.454
+city22 54.601;
+
+param latitude :=
+city1 26.031
+city2 21.632
+city3 -37.846
+city4 34.844
+city5 31.34
+city6 25.958
+city7 44.341
+city8 43.737
+city9 45.506
+city10 47.223
+city11 52.072
+city12 47.583
+city13 50.436
+city14 45.621
+city15 40.369
+city16 1.291
+city17 30.135
+city18 19.402
+city19 -23.702
+city20 36.116
+city21 25.49
+city22 24.471;
